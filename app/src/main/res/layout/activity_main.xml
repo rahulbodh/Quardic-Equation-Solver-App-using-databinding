@@ -4,11 +4,16 @@
     xmlns:tools="http://schemas.android.com/tools">
 
 
+    <data>
+
+    </data>
+
+
 <androidx.constraintlayout.widget.ConstraintLayout
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/bg"
+    android:background="#C3F5C736"
     tools:context=".MainActivity">
 
     <com.google.android.material.textfield.TextInputLayout
